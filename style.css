@@ -1,0 +1,26 @@
+canvas{
+    display: block;
+    margin: 0 auto;
+    box-shadow: 8px 8px 0px #aaa; 
+}
+
+.score{
+    display: block;
+    margin: 15px auto;
+    border-color: black;
+    width: 100px;
+    color: white;
+    text-align: center;
+    font-family: Century gothic, sans-serif;
+    box-shadow: 0 5px 5px #7fa980;
+    background-color:#008000 ;
+    border-radius: 5px; 
+}
+
+.snake{
+    color: #008000;
+    text-align: center;
+    font-family: Century gothic, sans-serif;
+    font-size:55px;
+ 
+}
